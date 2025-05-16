@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Delete Your Pickleballer Account</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+  <h1>Delete Your Pickleballer Account</h1>
+  
+  <p><strong>App Name:</strong> Pickleballer</p>
+  <p><strong>Developer:</strong> Mihir Rathod</p>
+
+  <h2>How to Request Account Deletion</h2>
+  <p>To delete your account and all associated data, please send an email to:</p>
+  <p><strong>Email:</strong> <a href="mailto:mihir121098@gmail.com">mihir121098@gmail.com</a></p>
+  <p>Include the subject line: <strong>"Delete My Pickleballer Account"</strong> and provide the email you used to sign up.</p>
+
+  <h2>Data That Will Be Deleted</h2>
+  <ul>
+    <li>Your name, email address and account.</li>
+    <li>Your match history.</li>
+    <li>Points, team stats, and leaderboard data.</li>
+  </ul>
+
+  <h2>Retention Period</h2>
+  <p>All data will be permanently deleted from our Firebase servers within <strong>30 days</strong> of your request.</p>
+
+  <h2>Contact</h2>
+  <p>If you have questions, please email: <a href="mailto:mihir121098@gmail.com">mihir121098@gmail.com</a></p>
+</body>
+</html>
